@@ -1,6 +1,9 @@
 import svgPaths from "./svg-xnnfsxc5pm";
-import imgImage from "figma:asset/b51fcd234b4a05b7b08f2594af182e2683d6666b.png";
-import imgOptions from "figma:asset/286b078f3a1c614ebe5e943e0c53a7fd996b174c.png";
+// import imgImage from "figma:asset/b51fcd234b4a05b7b08f2594af182e2683d6666b.png";
+// import imgOptions from "figma:asset/286b078f3a1c614ebe5e943e0c53a7fd996b174c.png";
+// 임시 수정:
+const imgImage = "";
+const imgOptions = "";
 
 function Component() {
   return (
